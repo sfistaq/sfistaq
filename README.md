@@ -1,6 +1,6 @@
 ## About me 👋
 
- Hi, I’m Sebastian, I’m interested in coding and music. 🌱 I’m currently learning React
+ Hi, I’m Sebastian, I’m interested in coding and music. 🌱 I’m currently learning frontend technologies.
 
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sfistaq@me.com) [![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-s-5512841a9)
 
